@@ -1,0 +1,3 @@
+[submodule "scs-sdk-csharp-plugin"]
+	path = scs-sdk-csharp-plugin
+	url = https://github.com/gpadilha/scs-sdk-csharp-plugin.git

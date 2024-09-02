@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCSSdkDashboardCompanion", "SCSSdkDashboardCompanion.csproj", "{0E79EED0-5973-4984-961F-92034E2E5DCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCSSdkClient", "..\scs-sdk-csharp-plugin\SCSSdkClient\SCSSdkClient.csproj", "{B62F8E57-9D8C-4EA2-90E4-1F6B09DCE468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E79EED0-5973-4984-961F-92034E2E5DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E79EED0-5973-4984-961F-92034E2E5DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E79EED0-5973-4984-961F-92034E2E5DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E79EED0-5973-4984-961F-92034E2E5DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62F8E57-9D8C-4EA2-90E4-1F6B09DCE468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62F8E57-9D8C-4EA2-90E4-1F6B09DCE468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62F8E57-9D8C-4EA2-90E4-1F6B09DCE468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62F8E57-9D8C-4EA2-90E4-1F6B09DCE468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F0BB880-D261-42F7-8A56-2A4179E3596F}
+	EndGlobalSection
+EndGlobal
